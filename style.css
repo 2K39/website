@@ -1,0 +1,41 @@
+#result {
+    position: absolute;
+    width: 100%;
+    max-width:870px;
+    cursor: pointer;
+    overflow-y: auto;
+    max-height: 400px;
+    box-sizing: border-box;
+    z-index: 1001;
+    
+   }
+   .link-class:hover{
+    background-color:#f1f1f1;
+   }
+
+body{
+    background-color:rgb(214, 214, 214);
+    color:rgb(99, 99, 99);
+}
+
+h2{
+    font-size:100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#search{
+border:20px;
+border-color: rgb(0, 0, 0);
+border-radius: 30px;
+padding: 20px;
+width: 700px;
+height: 30px;
+}
+
+.test{
+    text-align: center;
+    margin-top:230px;
+    margin-bottom: 0%;
+    font-size: 20px;
+}
+
